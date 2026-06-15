@@ -39,6 +39,7 @@ The dashboard helps businesses identify:
 ---
 
 ## 📸 Dashboard Preview
+<img width="1332" height="743" alt="image" src="https://github.com/user-attachments/assets/2cc46c7a-3c4e-489e-b67a-c9a44a2672ee" />
 
 
 
