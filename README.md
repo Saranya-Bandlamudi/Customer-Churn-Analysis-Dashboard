@@ -1,36 +1,87 @@
-# Customer Churn Analysis Dashboard
+# 📊 Customer Churn Analysis Dashboard
 
-## Project Overview
-This Power BI dashboard analyzes customer churn patterns and retention trends to help businesses identify factors contributing to customer attrition.
+## 🎯 Project Overview
 
-## Key Features
-- Total Customers KPI
-- Churned Customers KPI
-- Retained Customers KPI
-- Churn Rate (%)
-- Retention Rate (%)
-- Contract Type Analysis
-- Payment Method Analysis
-- Interactive Slicers
-- Business Insights Section
+This project analyzes customer churn patterns and customer retention behavior using interactive Power BI dashboards.
 
-## Tools Used
+The dashboard helps businesses identify:
+
+✔ Customers likely to churn  
+✔ High-risk contract types  
+✔ Customer retention opportunities  
+✔ Payment method impact on churn  
+✔ Business strategies to improve retention
+
+---
+
+## 🛠 Tools & Technologies
+
 - Power BI
-- DAX
+- SQL
+- Excel
+- Data Cleaning
+- Data Analysis
 - Data Visualization
 - Business Intelligence
 
-## Dashboard Insights
-- Overall Churn Rate: 26.54%
-- Retention Rate: 73.46%
-- Month-to-Month contracts show the highest churn.
-- Electronic Check customers have higher churn.
-- Long-term contracts improve customer retention.
+---
 
-## Dashboard Preview
+## 📈 Business KPIs
 
-<img width="1332" height="743" alt="image" src="https://github.com/user-attachments/assets/859d1df1-baf0-4dfc-9648-1ef867993080" />
+| Metric | Value |
+|----------|----------|
+| Total Customers | 7,043 |
+| Churned Customers | 1,869 |
+| Retained Customers | 5,174 |
+| Churn Rate | 26.54% |
+| Retention Rate | 73.46% |
 
+---
 
-## Author
-Saranya Bandlamudi
+## 📸 Dashboard Preview
+
+![Customer Churn Dashboard](customer_churn_dashboard.png)
+
+---
+
+## 🔍 Key Insights
+
+✅ Month-to-Month contracts have the highest churn rate.
+
+✅ Electronic Check customers show the highest churn.
+
+✅ Long-term contracts improve customer retention significantly.
+
+✅ Retained customers account for 73.46% of the customer base.
+
+✅ Customers with stable contracts demonstrate stronger loyalty.
+
+---
+
+## 💡 Business Recommendations
+
+- Encourage customers to move from monthly plans to yearly contracts.
+- Provide retention offers to high-risk customers.
+- Improve customer engagement programs.
+- Analyze payment method behavior for churn reduction strategies.
+- Develop targeted retention campaigns.
+
+---
+
+## 🚀 Project Outcome
+
+The dashboard enables businesses to monitor churn trends, understand customer behavior, and make data-driven retention decisions.
+
+---
+
+### ⭐ Created By
+
+**Saranya Bandlamudi**
+
+Aspiring Data Analyst | Power BI | SQL | Python | Excel | MySQL
+
+📧 Email: saranyabandlamudi7@gmail.com 
+
+🔗 LinkedIn: https://www.linkedin.com/in/saranya-bandlamudi?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+🔗 GitHub: 
