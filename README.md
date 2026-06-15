@@ -40,7 +40,7 @@ The dashboard helps businesses identify:
 
 ## 📸 Dashboard Preview
 
-![Customer Churn Dashboard](customer_churn_dashboard.png)
+
 
 ---
 
@@ -84,4 +84,4 @@ Aspiring Data Analyst | Power BI | SQL | Python | Excel | MySQL
 
 🔗 LinkedIn: https://www.linkedin.com/in/saranya-bandlamudi?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-🔗 GitHub: 
+🔗 GitHub: https://github.com/Saranya-Bandlamudi
