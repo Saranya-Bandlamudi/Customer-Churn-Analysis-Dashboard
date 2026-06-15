@@ -29,7 +29,8 @@ This Power BI dashboard analyzes customer churn patterns and retention trends to
 
 ## Dashboard Preview
 
-(Customer Churn Analysis Dashboard.png)
+<img width="1332" height="743" alt="image" src="https://github.com/user-attachments/assets/859d1df1-baf0-4dfc-9648-1ef867993080" />
+
 
 ## Author
 Saranya Bandlamudi
