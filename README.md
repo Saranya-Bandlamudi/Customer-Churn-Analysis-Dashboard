@@ -77,7 +77,7 @@ The dashboard enables businesses to monitor churn trends, understand customer be
 
 ### ⭐ Created By
 
-**Saranya Bandlamudi**
+***Saranya Bandlamudi***
 
 Data Analyst | Power BI | SQL | Python | Excel 
 
