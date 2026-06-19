@@ -79,7 +79,7 @@ The dashboard enables businesses to monitor churn trends, understand customer be
 
 **Saranya Bandlamudi**
 
-Aspiring Data Analyst | Power BI | SQL | Python | Excel 
+Data Analyst | Power BI | SQL | Python | Excel 
 
 📧 Email: saranyabandlamudi7@gmail.com 
 
